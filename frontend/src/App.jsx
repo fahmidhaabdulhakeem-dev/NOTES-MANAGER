@@ -4,7 +4,7 @@ import Sidebar from './components/Sidebar';
 import NoteViewer from './components/NoteViewer';
 import NoteEditor from './components/NoteEditor';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://notes-manager-backend.onrender.com/api';
 
 export default function App() {
   const [notes, setNotes] = useState([]);

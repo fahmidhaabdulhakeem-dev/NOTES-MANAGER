@@ -1,5 +1,6 @@
 {
   "name": "notes-manager",
+  "homepage": "https://github.com/fahmidhaabdulhakeem-dev/NOTES-MANAGER",
   "version": "1.0.0",
   "description": "Full-stack Notes Management System",
   "scripts": {
