@@ -3,6 +3,7 @@ NOTES MANAGER 🚀
 A full-stack, aesthetically pleasing Notes Management System built with React, Node.js, Express, and SQLite.
 
 🔗 Live Links
+
 Frontend: https://stirring-trifle-72f76b.netlify.app/
 
 Backend API: https://notes-manager-p28t.onrender.com/api
