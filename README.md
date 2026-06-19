@@ -1,4 +1,5 @@
-Notes Manager 🚀
+NOTES MANAGER 🚀
+
 A full-stack, aesthetically pleasing Notes Management System built with React, Node.js, Express, and SQLite.
 
 🔗 Live Links
