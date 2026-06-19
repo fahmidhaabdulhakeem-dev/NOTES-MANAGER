@@ -33,6 +33,7 @@ Deployment: Netlify (Frontend), Render (Backend).
 
 
 🌿 Branches
+
 main: Contains the full application source code.
 
 gh-pages: Contains the static production build files for the frontend
